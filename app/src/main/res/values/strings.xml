@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Hero Application</string>
+    <string name="detail_activity_title">Detail Activity</string>
+    <string name="about_activity_title">About Activity</string>
+    <string name="about_name">Alia Widyanita Puspaningrum</string>
+    <string name="about_email">alia.widyanita@ui.ac.id</string>
+</resources>
